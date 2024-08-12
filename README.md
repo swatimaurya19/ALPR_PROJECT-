@@ -1,13 +1,11 @@
 Install the required dependencies:
-bash
-Copy code
+
 pip install -r requirements.txt
 Usage
 Run the main script to start the ALPR system:
-bash
-Copy code
+
 python main.py
-Provide the path to the image or video file.
+
 Features
 Real-time license plate detection
 Optical Character Recognition (OCR) for plate recognition
